@@ -12,7 +12,7 @@ Download the following files:
 3. mapanimation.js
 
 ## Roadmap
-I'm having the marker move every 2 seconds instead of one to allow the user more time to see each stop.
+In the future, I'd like to revisit this and restructure it to follow a Chicago Public Transit route. I will apply for an API key for access through the Chicago Developers database.
 
 ## License
 MIT xPRO - For educational purposes only.
